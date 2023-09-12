@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="Desserts">Items</string-array>
+    <string name="Link">
+         <a href="https://youtu.be/87V4nizNJiE?si=inbRfliTmFImrE67"> Click here </a> to see a quick video
+    </string>
+    <string name="Link2">
+         <a href="https://youtu.be/ZzHEUeX58V0?si=KFDJWyhO3xpS1a5S"> Click here </a> to see a quick video
+    </string>
+    <string name="Link3">
+         <a href="https://youtu.be/453mpKHVaBs?si=hLFO_az-vQwcbamW"> Click here </a> to see a quick video
+    </string>
+    <string name="Link4">
+         <a href="https://youtu.be/EBHlZQn14C0?si=oGP6GL2NlWbk-Z5m"> Click here </a> to see a quick video
+    </string>
+</resources>
